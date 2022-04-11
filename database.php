@@ -2,7 +2,7 @@
 
 // Connect to MySQL
 $host_name = "localhost";
-$db_name = "shoutit";
+$db_name = "";
 $user_name = "root";
 $password = "";
 
